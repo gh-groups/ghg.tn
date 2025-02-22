@@ -11,7 +11,7 @@ function page() {
                     <div className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
                         <div className="flex items-center space-x-2">
                             <FolderGit2 className="w-6 h-6" />
-                            <span className="text-xl font-semibold">RepoGroups</span>
+                            <span className="text-xl font-semibold">GitHub Groups</span>
                         </div>
                         <a href="https://chrome.google.com/webstore"
                             className="bg-black hover:bg-gray-800 text-white px-4 py-2 rounded-lg transition-colors duration-200">
